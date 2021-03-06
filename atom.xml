@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://a3b2c2d2.github.io</id>
     <title>Grace</title>
-    <updated>2021-03-06T08:38:19.520Z</updated>
+    <updated>2021-03-06T08:50:37.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://a3b2c2d2.github.io"/>
     <link rel="self" href="https://a3b2c2d2.github.io/atom.xml"/>
@@ -21,10 +21,10 @@
 <p><a href="https://a3b2c2d2.github.io">我的网站网址：</a></p>
 <p>⭐如何创建网站呢？<br>
 答：只需要两步。</p>
-<p>**第一步：**用github创建网站：</p>
+<p>【第一步】用github创建网站：</p>
 <p><a href="https://www.bilibili.com/video/BV1a7411P78J">创建网站视频链接</a><br>
 跟着视频做就可以了，亲试可行！</p>
-<p>**第二步：**用Gridea写文章，小白也能上手。</p>
+<p>【第二步】用Gridea写文章，小白也能上手。</p>
 <p><a href="https://www.bilibili.com/video/BV1ME41147bv">完善网站视频链接</a></p>
 ]]></content>
     </entry>
